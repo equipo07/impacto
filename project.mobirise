@@ -48,7 +48,7 @@
         "url": "https://fonts.googleapis.com/css?family=Cabin:400,500,600,700,400i,500i,600i,700i"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/descarga-1.jpg",
+    "favicon": "@PROJECT_PATH@/assets/images/simbolo.jpg",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
